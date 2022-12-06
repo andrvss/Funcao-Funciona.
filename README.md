@@ -43,8 +43,8 @@ Escreva os resultados em tela.
 
 Chame cada uma  das funções três vezes com diferentes conjuntos de valores.
 
-🔍 - 4. Crie uma função chamada converterCelsiusFahrenheit. 
-Ela deve:
+🔍 - 5. Crie uma função chamada converterCelsiusFahrenheit. 
+  Ela deve:
 - Armazenar uma temperatura Celsius em uma variável.
 - Converter-la para  Fahrenheit e escrever a mensagem: "X° C é igual a Y° F". (X e Y são os valores que devem ser substituídos.) 
 
